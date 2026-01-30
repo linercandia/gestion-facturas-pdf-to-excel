@@ -1,0 +1,9 @@
+__pycache__/
+*.xlsx
+output_data/
+*.pdf
+!input_invoices/factura_prueba.pdf
+.venv/
+env/
+.env
+.DS_Store
